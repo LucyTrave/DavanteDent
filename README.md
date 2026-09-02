@@ -27,19 +27,19 @@ Aplicación web front-end para gestionar las citas de una clínica dental. Permi
 
 Desde la pantalla principal se puede acceder a la creación de una cita o a la gestión de las citas existentes.
 
-![Pantalla principal de DavanteDent](docs/images/01-inicio-davantedent.png)
+![Pantalla principal de DavanteDent](/images/01-inicio-davantedent.png)
 
 ### Gestión de citas
 
 El formulario permite introducir los datos de la cita y del paciente. En la parte inferior se muestra el listado de citas registradas, con las acciones disponibles para modificar o eliminar cada registro.
 
-![Formulario y listado de citas de DavanteDent](docs/images/02-gestion-citas.png)
+![Formulario y listado de citas de DavanteDent](/images/02-gestion-citas.png)
 
 ### Registro de una cita
 
 La aplicación permite seleccionar la fecha y la hora, añadir observaciones y guardar los datos del paciente. La nueva cita se incorpora al listado de citas registradas.
 
-![Registro de una nueva cita en DavanteDent](docs/images/03-registro-cita.png)
+![Registro de una nueva cita en DavanteDent](/images/03-registro-cita.png)
 
 ## Ejecución del proyecto
 
@@ -47,7 +47,7 @@ No requiere instalación de dependencias ni configuración de una base de datos.
 
 1. Descarga o clona el repositorio.
 2. Abre la carpeta del proyecto.
-3. Abre `índice.html` en el navegador o ejecuta el proyecto con Live Server desde Visual Studio Code.
+3. Abre `íntex.html` en el navegador o ejecuta el proyecto con Live Server desde Visual Studio Code.
 
 Los datos se almacenan localmente en el navegador. Si se eliminan los datos del sitio o el almacenamiento local, también se borrarán las citas guardadas.
 

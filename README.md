@@ -4,7 +4,7 @@ Aplicación web front-end para gestionar las citas de una clínica dental. Permi
 
 ## Demo
 
-[Ver DavanteDent en funcionamiento](https://lucytrave.github.io/Davantedent/)
+[Ver DavanteDent en funcionamiento](https://lucytrave.github.io/DavanteDent/)
 
 
 

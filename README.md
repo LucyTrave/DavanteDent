@@ -47,7 +47,7 @@ No requiere instalación de dependencias ni configuración de una base de datos.
 
 1. Descarga o clona el repositorio.
 2. Abre la carpeta del proyecto.
-3. Abre `íntex.html` en el navegador o ejecuta el proyecto con Live Server desde Visual Studio Code.
+3. Abre `intex.html` en el navegador o ejecuta el proyecto con Live Server desde Visual Studio Code.
 
 Los datos se almacenan localmente en el navegador. Si se eliminan los datos del sitio o el almacenamiento local, también se borrarán las citas guardadas.
 

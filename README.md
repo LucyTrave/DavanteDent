@@ -2,6 +2,12 @@
 
 Aplicación web front-end para gestionar las citas de una clínica dental. Permite registrar los datos de cada cita y del paciente, consultar las citas guardadas, modificar sus datos y eliminar registros desde el navegador.
 
+## Demo
+
+[Ver DavanteDent en funcionamiento](https://lucytrave.github.io/Davantedent/)
+
+
+
 ## Funcionalidades
 
 - Acceso desde una pantalla principal a las opciones de creación y gestión de citas.
